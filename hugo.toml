@@ -1,0 +1,5 @@
+baseURL = 'https://starliquid.github.io/ionskull.github.io/'
+languageCode = 'en-us'
+title = 'Ionskull'
+
+theme="hello-friend-ng"
